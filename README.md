@@ -2,7 +2,7 @@
 
 A sleek movie landing page inspired by IMDb, built with React and a dark, cinematic design.
 
-![IMDb Clone Preview](./assets/preview.svg)
+![IMDb Clone Screenshot](./assets/screenshot.png)
 
 ## Features
 - Hero banner with featured movie details
